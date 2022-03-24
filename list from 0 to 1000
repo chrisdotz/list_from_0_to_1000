@@ -1,0 +1,8 @@
+#Run this code for a list from 0 - 1000
+
+num_count = []
+
+for number in range(0,1001):
+    num_count.append(number)
+
+print(num_count)
